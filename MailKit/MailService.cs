@@ -296,7 +296,8 @@ namespace MailKit {
 		/// <param name="sslPolicyErrors">The SSL policy errors.</param>
 		public static bool DefaultServerCertificateValidationCallback (object sender, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
 		{
-			if (sslPolicyErrors == SslPolicyErrors.None)
+            return true;
+            if (sslPolicyErrors == SslPolicyErrors.None)
 				return true;
 
 			// If no remote certificate is available, we have no choice but to abort.
