@@ -1781,8 +1781,11 @@ namespace MailKit.Net.Smtp {
 		/// <param name="mailbox">The mailbox.</param>
 		protected virtual DeliveryStatusNotification? GetDeliveryStatusNotifications (MimeMessage message, MailboxAddress mailbox)
 		{
-			return null;
-		}
+            //return null;
+            return DeliveryStatusNotification.Delay |
+                   DeliveryStatusNotification.Failure |
+                   DeliveryStatusNotification.Success;
+        }
 
 		static string GetNotifyString (DeliveryStatusNotification notify)
 		{
