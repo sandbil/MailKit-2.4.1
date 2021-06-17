@@ -61,12 +61,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "d:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\MimeKit.Net45.csproj",
+      "projectUniqueName": "D:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\MimeKit.Net45.csproj",
       "projectName": "MimeKit.Net45",
-      "projectPath": "d:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\MimeKit.Net45.csproj",
-      "projectJsonPath": "d:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\MimeKit.Net45.project.json",
+      "projectPath": "D:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\MimeKit.Net45.csproj",
+      "projectJsonPath": "D:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\MimeKit.Net45.project.json",
       "packagesPath": "C:\\Users\\bil.R75\\.nuget\\packages\\",
-      "outputPath": "d:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\obj\\",
+      "outputPath": "D:\\OLDI\\Work\\!WEB_SED\\sed\\MailKit\\MailKit-2.4.1\\submodules\\MimeKit\\MimeKit\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\bil.R75\\AppData\\Roaming\\NuGet\\NuGet.Config",
